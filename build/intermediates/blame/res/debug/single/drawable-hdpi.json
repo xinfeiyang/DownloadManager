@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\detail_btn_pressed.9.png",
+        "source": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\src\\main\\res\\drawable-hdpi\\detail_btn_pressed.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_install.png",
+        "source": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\src\\main\\res\\drawable-hdpi\\ic_install.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\spinner_big_outer.png",
+        "source": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\src\\main\\res\\drawable-hdpi\\spinner_big_outer.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\detail_btn_normal.9.png",
+        "source": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\src\\main\\res\\drawable-hdpi\\detail_btn_normal.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_redownload.png",
+        "source": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\src\\main\\res\\drawable-hdpi\\ic_redownload.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_down.png",
+        "source": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\src\\main\\res\\drawable-hdpi\\arrow_down.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_up.png",
+        "source": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\src\\main\\res\\drawable-hdpi\\arrow_up.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_default.png",
+        "source": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\src\\main\\res\\drawable-hdpi\\ic_default.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\detail_bottom_bg.9.png",
+        "source": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\src\\main\\res\\drawable-hdpi\\detail_bottom_bg.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cancel.png",
+        "source": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\src\\main\\res\\drawable-hdpi\\ic_cancel.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_download.png",
+        "source": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\src\\main\\res\\drawable-hdpi\\ic_download.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rating_small_half.png",
+        "source": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\src\\main\\res\\drawable-hdpi\\rating_small_half.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rating_small_empty.png",
+        "source": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\src\\main\\res\\drawable-hdpi\\rating_small_empty.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rating_small_full.png",
+        "source": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\src\\main\\res\\drawable-hdpi\\rating_small_full.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pause.png",
+        "source": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\src\\main\\res\\drawable-hdpi\\ic_pause.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\spinner_big_inner.png",
+        "source": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\src\\main\\res\\drawable-hdpi\\spinner_big_inner.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_resume.png",
+        "source": "D:\\WorkSpace\\AndroidStuido\\MyApp\\customdownloadmanager\\src\\main\\res\\drawable-hdpi\\ic_resume.png"
+    }
+]
